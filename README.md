@@ -2,7 +2,7 @@
 
 Hi everyone,
 
-This Selenium Jmeter script was created as a Final Project of the Udemy course: Learn JMETER from Scratch on Live Apps -Performance Testing, Teacher Rahul Shetty.
+This Selenium Jmeter script was created as a Final Project of the Udemy course: Learn JMETER from Scratch on Live Apps - Performance Testing, Teacher Rahul Shetty.
 
 The Test Plan has 3 different websites, one type of thread for each. The websites are:
 - the-internet.herokuapp.com
